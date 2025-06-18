@@ -12,11 +12,9 @@
 
 ## 🔭 About Me
 
-- 🎓 Studying Computer Science (**BUT Informatique**) at IUT Montpellier (1st year)
-- 💻 Proficient in **JavaScript**, **Python**, **Java**, and **Rust**
-- 🔐 Passionate about **cybersecurity**, **reverse engineering**, and **cryptography**
-- 🎂 Born on December 31st 🎆
-- 🧠 Currently learning **x86 Assembly** and **Binary Exploitation**
+- 💻 Proficient in **JavaScript**, **Python**, **C#**, and **Rust**
+- 🔐 Passionate about **cybersecurity**, **reverse engineering**, **reading**, and **cryptography**
+- 🧠 Currently learning about **TikTok VM**
 
 ---
 
